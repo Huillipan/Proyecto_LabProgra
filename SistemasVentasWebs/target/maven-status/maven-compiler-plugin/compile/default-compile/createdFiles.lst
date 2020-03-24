@@ -1,0 +1,9 @@
+com\lp2\SistemasVentasWeb\SistemasVentasWebApplication.class
+com\lp2\SistemasVentasWeb\modelo\Producto.class
+com\lp2\SistemasVentasWeb\dao\EmpleadoDAO.class
+com\lp2\SistemasVentasWeb\modelo\Ventas.class
+com\lp2\SistemasVentasWeb\dao\ClienteDAO.class
+com\lp2\SistemasVentasWeb\dao\ProductoDAO.class
+com\lp2\SistemasVentasWeb\dao\VentasDAO.class
+com\lp2\SistemasVentasWeb\modelo\Empleado.class
+com\lp2\SistemasVentasWeb\modelo\Cliente.class

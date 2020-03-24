@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Simple Login 01</title>
+    <link rel="stylesheet" href="../static/Login.css" th:href="@{/Login.css}">
+    
+
+</head>
+
+<body>
+    <div class="col-4">
+
+            
+        <form th:action="login" class="form-box animated fadeInUp" method="POST" th:object="${duenio}">
+             <input type="text" placeholder="Usuario" th:field="*{usuario}" name="" id="">
+             <input type="password" placeholder="contraseña" th:field="*{contraseña}" name="" id="">
+             <button type="submit" >
+               Ingresar
+              </button>
+         </form>
+    </div>
+</body>
+
+</html>

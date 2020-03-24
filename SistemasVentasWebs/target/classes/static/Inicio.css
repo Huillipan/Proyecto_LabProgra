@@ -1,0 +1,32 @@
+nav{
+background-color:#0c5460;
+
+}
+
+div#fondo{
+    background-color: darkgray;
+    
+}
+
+
+div#salida{
+    float: right;
+    margin-left: 60%;
+}
+
+body{
+   background-color: #252525;
+
+}
+
+div#boton{
+margin-left: 40%;
+
+}
+
+input#texto{
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
+
